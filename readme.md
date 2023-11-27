@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-card-details-form-with-tailwindcss-AhfEZ2pi10)
 - Live Site URL: [Netlify](https://fm-challenge-interactive-card-details.netlify.app/)
 
 ## My process
