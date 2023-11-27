@@ -53,7 +53,7 @@ export default function App() {
 
   return (
     <div className="h-screen grid grid-rows-[240px_1fr] lg:grid-rows-1 lg:grid-cols-[483px_1fr]">
-      <div className="bg-[url('bg-main-mobile.png')] lg:bg-[url('bg-main-desktop.png')] bg-cover relative z-10">
+      <div className="bg-[url('../public/bg-main-mobile.png')] lg:bg-[url('../public/bg-main-desktop.png')] bg-cover relative z-10">
         <div className="absolute bottom-[-40px] lg:bottom-auto lg:top-[300px] left-1.6 lg:left-auto lg:right-[-100px] w-[300px] lg:w-full">
           <img src="bg-card-front.png" alt="card front" />
           <img
